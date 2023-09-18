@@ -9,7 +9,14 @@
 	"description": "",
 	"ver": "23.9.18.2243",
 	"enableCICD": true,
-	"apps": [],
+	"apps": [
+		{
+			"id": "bc822f48-5713-4f85-82a4-fbad9e467724",
+			"application": "test2",
+			"title": "",
+			"description": ""
+		}
+	],
 	"api": [
 		{
 			"id": "e6f2c689-c636-4dae-8ebb-07776bcb55a0",

@@ -7,10 +7,17 @@
 	},
 	"name": "test2",
 	"description": "",
-	"ver": "23.9.18.2240",
+	"ver": "23.9.18.2243",
 	"enableCICD": true,
 	"apps": [],
-	"api": [],
+	"api": [
+		{
+			"id": "e6f2c689-c636-4dae-8ebb-07776bcb55a0",
+			"name": "znad_api_pm_notif",
+			"description": null,
+			"apiGroup": null
+		}
+	],
 	"odataSource": [],
 	"odataMock": [],
 	"dictionary": [],
